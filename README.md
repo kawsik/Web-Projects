@@ -1,2 +1,2 @@
-# Components in React 
+# Projects from Angela Yu
 
